@@ -1,0 +1,8 @@
+Download olympic-games.zip from https://github.com/ravi4all/ML_AugEveReg_19
+
+Exercise : for summer data
+1. Most number of medals won by an individual in male and female
+2. Most number of gold, silver and bronze won by an individual male and female
+3. Medal Distribution Of Top 10 Countries
+4. Medals Count Of Top Countries By Years
+5. Medal comparison by year of any country
